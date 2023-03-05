@@ -1,0 +1,149 @@
+\textbf{Marke} & \textbf{Anzahl} \\ \hline
+PayPal & 4811 \\ \hline
+Chase Personal Banking & 1085 \\ \hline
+Facebook & 993 \\ \hline
+Amazon & 807 \\ \hline
+Netflix & 747 \\ \hline
+Bank of America & 653 \\ \hline
+Apple & 585 \\ \hline
+LinkedIn Corporation & 501 \\ \hline
+Adobe & 455 \\ \hline
+Yahoo! & 385 \\ \hline
+Dropbox & 376 \\ \hline
+Wells Fargo & Company & 354 \\ \hline
+Itau Unibanco S.A & 312 \\ \hline
+IRS & 281 \\ \hline
+WeTransfer & 279 \\ \hline
+Orange & 277 \\ \hline
+Instagram & 275 \\ \hline
+Webmail Provider & 268 \\ \hline
+AT&T & 252 \\ \hline
+eBay & 232 \\ \hline
+RuneScape & 231 \\ \hline
+Google & 218 \\ \hline
+Alibaba & 190 \\ \hline
+Steam & 183 \\ \hline
+WhatsApp & 178 \\ \hline
+1&1 Ionos & 159 \\ \hline
+DocuSign & 157 \\ \hline
+Free ISP & 139 \\ \hline
+Credit Agricole S.A & 119 \\ \hline
+Societe Generale & 108 \\ \hline
+Canadian Imperial Bank of Commerce & 98 \\ \hline
+ASB Bank Limited & 96 \\ \hline
+Desjardins & 96 \\ \hline
+Bank of Montreal & 96 \\ \hline
+U.S. Bank & 95 \\ \hline
+Deutsche Telekom & 89 \\ \hline
+M & T Bank Coporation & 85 \\ \hline
+Chronopost International & 72 \\ \hline
+Visa International Service Association & 66 \\ \hline
+Absa Group & 63 \\ \hline
+SF Express Co & 63 \\ \hline
+First Investment Bank & 60 \\ \hline
+PostFinance & 54 \\ \hline
+Made-In-China & 52 \\ \hline
+Daum & 51 \\ \hline
+Americanas.com S & 49 \\ \hline
+Lloyds TSB Group & 48 \\ \hline
+Square & 48 \\ \hline
+Scotiabank & 48 \\ \hline
+Banco do Brasil S.A & 47 \\ \hline
+Navy Federal Credit Union & 47 \\ \hline
+American Express & 46 \\ \hline
+Grupo Santander & 45 \\ \hline
+RBC Royal Bank & 45 \\ \hline
+Cox Communications & 42 \\ \hline
+BT Group plc & 40 \\ \hline
+SunTrust Bank & 37 \\ \hline
+Stripe & 36 \\ \hline
+OurTime Dating & 35 \\ \hline
+ING & 35 \\ \hline
+Alaska USA Federal Credit Union & 34 \\ \hline
+AOL & 31 \\ \hline
+Discover & 30 \\ \hline
+Suncorp Group & 29 \\ \hline
+TPG Telecom & 29 \\ \hline
+NetEase & 28 \\ \hline
+Spotify & 28 \\ \hline
+United Services Automobile Association & 27 \\ \hline
+Juno Online Services & 27 \\ \hline
+Blockchain & 26 \\ \hline
+International Card Services B.V & 25 \\ \hline
+Rackspace & 24 \\ \hline
+Westpac Institutional Banking & 24 \\ \hline
+Sparkasse Bank & 22 \\ \hline
+NatWest Personal Banking & 22 \\ \hline
+MWeb & 21 \\ \hline
+SOCIETE FRANCAISE DU RADIOTELEPHONE & 20 \\ \hline
+Caixa Economica Federal & 20 \\ \hline
+Frontier Communications & 19 \\ \hline
+Etisalat & 18 \\ \hline
+Landesbank Berlin AG & 18 \\ \hline
+Mastercard International & 18 \\ \hline
+Global Sources HK & 18 \\ \hline
+HSBC Bank & 18 \\ \hline
+Bankia & 17 \\ \hline
+ATB Financial & 17 \\ \hline
+Spectrum & 17 \\ \hline
+AutoScout24 & 17 \\ \hline
+Huntington Bank & 16 \\ \hline
+National Bank of Canada & 16 \\ \hline
+Banco del Estado de Chile & 15 \\ \hline
+ADP & 15 \\ \hline
+Telus & 14 \\ \hline
+GoDaddy & 14 \\ \hline
+Giffgaff & 14 \\ \hline
+TD Bank Group & 13 \\ \hline
+Telstra Corporation Limited & 12 \\ \hline
+Simplii Financial & 12 \\ \hline
+SNS Bank N.V & 12 \\ \hline
+Mobile.de & 12 \\ \hline
+Vodafone & 11 \\ \hline
+Uber & 10 \\ \hline
+TradeKey & 10 \\ \hline
+Universo Online & 10 \\ \hline
+Key Bank & 10 \\ \hline
+Naver & 10 \\ \hline
+EarthLink & 9 \\ \hline
+Maersk & 9 \\ \hline
+Citrix ShareFile & 8 \\ \hline
+Banco de Chile & 8 \\ \hline
+Allegro & 8 \\ \hline
+Cairo Amman Bank & 8 \\ \hline
+Ooredoo QSC & 7 \\ \hline
+POF & 7 \\ \hline
+Bank of The Bahamas Limited & 7 \\ \hline
+Meridian Credit Union & 7 \\ \hline
+CenturyLink & 6 \\ \hline
+Equa bank & 6 \\ \hline
+Spark New Zealand & 6 \\ \hline
+NedBank Limited & 6 \\ \hline
+NBT Bank & 5 \\ \hline
+MBNA Corportation & 4 \\ \hline
+Banca Sella & 4 \\ \hline
+Swisscom IT Services AG & 4 \\ \hline
+Enel Energia S.p.A & 4 \\ \hline
+National Australia Bank Limited & 4 \\ \hline
+Luno & 4 \\ \hline
+Verizon Wireless & 3 \\ \hline
+Caixa Geral de Depositos & 3 \\ \hline
+Cembra Money Bank AG & 3 \\ \hline
+Bouygues Telecom & 3 \\ \hline
+Delta Air Lines & 3 \\ \hline
+ICICI Bank Limited & 3 \\ \hline
+Banco Safra & 2 \\ \hline
+CaixaBank & 2 \\ \hline
+BB&T Corporation & 2 \\ \hline
+iiNet Limited & 2 \\ \hline
+Bethpage Federal Credit Union & 1 \\ \hline
+Zoopla & 1 \\ \hline
+Royal KPN N.V & 1 \\ \hline
+UniCredit Bank Aktiengesellschaft & 1 \\ \hline
+UBS AG & 1 \\ \hline
+Credit du Nord & 1 \\ \hline
+First National Bank SA & 1 \\ \hline
+IBC Bank & 1 \\ \hline
+Standard Chartered Bank & 1 \\ \hline
+Monmouth Telecom & 1 \\ \hline
+TalkTalk Communications & 1 \\ \hline
